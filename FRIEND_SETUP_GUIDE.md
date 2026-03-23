@@ -118,8 +118,9 @@ https://github.com/你的用户名/Japanese-Daily
 
 ✅ **完成后**：你应该有一个类似这样的 Key：
 ```
-sk-7b0a6e91599e46e081c0768ae64179ff
+sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
+> ⚠️ **安全提示**：这只是一个示例格式，你复制的是你自己真实的 Key。
 
 ### 3.4 充值（可选但推荐）
 
