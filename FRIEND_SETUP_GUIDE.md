@@ -300,7 +300,10 @@ sk-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ✅ **如果看到推送内容**：恭喜，配置成功！
 
-❌ **如果失败**：点击运行记录中的红色叉号，查看错误信息。
+❌ **如果失败（403错误）**：
+1. 检查 **第六步**的 PAT_TOKEN 是否正确配置
+2. 确认 PAT_TOKEN 有 `repo` 权限
+3. 查看 Actions 运行日志中的详细错误信息
 
 ---
 
